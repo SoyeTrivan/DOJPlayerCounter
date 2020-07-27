@@ -22,7 +22,7 @@ namespace ServerDOJ
         {
             int playerCount = GetNumPlayerIndices();
 
-            using (StreamWriter outputFile = new StreamWriter(Path.Combine(DOJScriptHelper.ScriptLocation(), @"config\players.txt"), false))
+            using (StreamWriter outputFile = new StreamWriter(Path.Combine(DOJScriptHelper.ScriptLocation() + @"\config", "players.txt"), false))
             {
                 outputFile.WriteLine(playerCount);
             }
