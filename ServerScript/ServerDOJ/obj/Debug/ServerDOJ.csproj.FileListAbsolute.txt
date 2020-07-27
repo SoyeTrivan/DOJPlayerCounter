@@ -1,0 +1,10 @@
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\obj\Debug\ServerDOJ.csprojAssemblyReference.cache
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\obj\Debug\ServerDOJ.csproj.CoreCompileInputs.cache
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\bin\Debug\ServerDOJ.net.dll
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\bin\Debug\ServerDOJ.net.pdb
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\obj\Debug\ServerDOJ.csproj.CopyComplete
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\obj\Debug\ServerDOJ.net.dll
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\obj\Debug\ServerDOJ.net.pdb
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\bin\Debug\CitizenFX.Server.dll
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\bin\Debug\SoyeAPI.dll
+E:\VisualStudioRepos\ServerDOJ\ServerDOJ\bin\Debug\SoyeAPI.pdb
