@@ -19,5 +19,11 @@ namespace DiscordDOJ.Modules
 
             await ReplyAsync(text);
         }
+
+        [Command("invite")]
+        public async Task Invite()
+        {
+            await ReplyAsync("https://discord.gg/mmxH4dN");
+        }
     }
 }
